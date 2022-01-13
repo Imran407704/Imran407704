@@ -8,12 +8,12 @@
 <h3 align="center">Social engineering bypasses all technologies, including firewalls 🔥🔥🔥</h3>
 
 
-<h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/Dheerajmadhukar/Dheerajmadhukar/main/img/handshake.gif" height="32px"></h3>
+<h3 align="center">Let's Connect <img src="https://github.com/Imran407704/imran407704/blob/main/images/handshake.gif" height="32px"></h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/imran407704/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/imran407704/imran407704/blob/main/img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/imran407704" title="Twitter Profile"><img height="22" width="22" src="https://github.com/imran407704/imran407704/blob/main/img/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.youtube.com/channel/UCpksfS6N1ZOVfZp2SC1eMpA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/imran407704/imran407704/blob/main/img/youtube.svg"> YouTube</a></code>
+    <a href="https://www.linkedin.com/in/imran407704/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/imran407704" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.youtube.com/channel/UCpksfS6N1ZOVfZp2SC1eMpA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/youtube.svg"> YouTube</a></code>
 </h5>
 <br>
 
